@@ -1,24 +1,25 @@
 # Mobile-Framework-Comparison
 - [Mobile-Framework-Comparison](#mobile-framework-comparison)
-    - [Description<br />](#description)
-    - [Goal<br />](#goal)
-    - [Progress<br />](#progress)
+    - [Description](#description)
+    - [Goal](#goal)
+    - [Progress](#progress)
     - [Comparison](#comparison)
   
-<br />
+  
 
-### Description<br />
+
+### Description
 Just a repo for comparing flutter vs react native vs xamarin forms vs .NET MAUI vs native application by creating a simple buttonclick action application 
 
-<br />
 
-### Goal<br />
-My goal is to make an applicaiton just like the one shown below in each of frameworks listed above.<br />
+
+### Goal
+My goal is to make an applicaiton just like the one shown below in each of frameworks listed above.
 [App-Exaple](assets/images/app-example.png)
 
-<br />
 
-### Progress<br />
+
+### Progress
 - Flutter
  - React Native
  - Xamarin Forms
@@ -26,7 +27,7 @@ My goal is to make an applicaiton just like the one shown below in each of frame
  - Native Android (Kotlin + Andorid Studio)
  - Native iOS (Swift + Xcode)
 
-<br />
+
 
 ### Comparison
 
