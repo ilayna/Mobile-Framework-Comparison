@@ -20,9 +20,9 @@ My goal is to make an applicaiton just like the one shown below in each of frame
 
 
 ### Progress
-- Flutter
+- ~~Flutter~~
  - React Native
- - Xamarin Forms
+ - ~~Xamarin Forms~~
  - .NET MAUI
  - Native Android (Kotlin + Andorid Studio)
  - Native iOS (Swift + Xcode)
@@ -32,13 +32,13 @@ My goal is to make an applicaiton just like the one shown below in each of frame
 ### Comparison
 
 
-| Framework      	| Ease of Setup 	| Programming Language 	| Docs 	| Pros 	| Cons 	|
-|----------------	|---------------	|----------------------	|------	|------	|------	|
-| Flutter        	|               	|                      	|      	|      	|      	|
-| React Native   	|               	|                      	|      	|      	|      	|
-| Xamarin Forms  	|               	|                      	|      	|      	|      	|
-| .NET MAUI      	|               	|                      	|      	|      	|      	|
-| Native Android 	|               	|                      	|      	|      	|      	|
-| Native iOS     	|               	|                      	|      	|      	|      	|
+| Framework      	| Ease of Setup 	| Programming Language  	| Docs 	| Pros                                       	| Cons                                        	|
+|----------------	|---------------	|-----------------------	|------	|--------------------------------------------	|---------------------------------------------	|
+| Flutter        	| 7/10          	| Dart                  	| 8/10 	| Good community support                     	| need to learn dart                          	|
+| React Native   	| 5/10          	| Javascript/Typescript 	| 6/10 	| Javascript is fairly easy to learn         	| need to learn javascript + how to use react 	|
+| Xamarin Forms  	| 10/10         	| C#/XAML               	| 7/10 	| Visual Studio makes it really easy to use  	| Pretty old                                  	|
+| .NET MAUI      	|      -        	| C#/XAML               	| -    	| A newer version of Xamarin                 	| Not out yet                                 	|
+| Native Android 	| 9/10          	|  Java/Kotlin          	| -    	| Android Studio makes it really easy to use 	| Supports only android                       	|
+| Native iOS     	|      -        	| Swift/Objective C/C++ 	| -    	| Xcode makes it easy to use                 	| You need a mac to use                       	|
     
 
